@@ -1,0 +1,40 @@
+total 24
+drwxr-xr-x    1 root    root   4096 May 28 01:26 .
+drwxr-xr-x    1 root    root   4096 May 28 01:26 ..
+-rw-r--r--    1 root    root      0 May 24 02:56 11
+-rw-------    1 root    root      0 May 28 01:25 abc.txt
+drwxr-xr-x    6 vincent staff   103 May 27 07:45 alu-shell
+drwxr-xr-x    4 root    root     46 May 20 03:34 alu-zero_day
+lrwxrwxrwx    1 root    root      7 Mar 16  2022 bin -> usr/bin
+-rw---x--x    1 root    root      0 May 28 01:26 bonny.txt
+drwxr-xr-x    2 root    root      6 Apr 15  2020 boot
+drwxr-xr-x    5 root    root    340 May  7 02:09 dev
+-rwxr-xr-x    1 root    root      0 May  7 02:09 .dockerenv
+drwxr-xr-x    2 root    root      6 May 15 04:29 emacs
+drwxr-xr-x    1 root    root   4096 May 28 01:09 etc
+drwxr-xr-x    2 root    root      6 Apr 15  2020 home
+-rw-r--r--    1 root    root      0 May 26 00:58 if-statements
+-rw-r--r--    1 root    root  12288 May 26 00:59 .if-statements.swp
+drwxr-xr-x    3 root    root     58 May 21 01:56 in-class-activities
+lrwxrwxrwx    1 root    root      7 Mar 16  2022 lib -> usr/lib
+lrwxrwxrwx    1 root    root      9 Mar 16  2022 lib32 -> usr/lib32
+lrwxrwxrwx    1 root    root      9 Mar 16  2022 lib64 -> usr/lib64
+lrwxrwxrwx    1 root    root     10 Mar 16  2022 libx32 -> usr/libx32
+drwxr-xr-x    2 root    root      6 May 12 02:01 linux_practice
+drwxr-xr-x    2 root    root      6 Mar 16  2022 media
+drwxr-xr-x    2 root    root      6 Mar 16  2022 mnt
+drwxr-xr-x    3 root    root     35 May 20 02:48 MySuperRepo
+-rw-r--r--    1 root    root      0 May  7 05:39 old_school
+-rw-r--r--    1 root    root      0 May 15 04:35 opening.ttxt
+-rw-r--r--    1 root    root      0 May 15 04:35 opening.txt
+drwxr-xr-x    1 root    root     19 Mar 29  2022 opt
+dr-xr-xr-x 1390 root    root      0 May  7 02:09 proc
+drwx------    1 root    root    248 May 28 01:55 root
+drwxr-xr-x    1 root    root     36 May 12 02:39 run
+lrwxrwxrwx    1 root    root      8 Mar 16  2022 sbin -> usr/sbin
+drwxr-xr-x    2 root    root      6 Mar 16  2022 srv
+dr-xr-xr-x   13 root    root      0 May  7 02:09 sys
+drwxrwxrwt    1 root    root     78 May 22 07:04 tmp
+drwxr-xr-x    1 root    root    121 Mar 29  2022 usr
+drwxr-xr-x    1 root    root     41 Mar 16  2022 var
+drwxr-xr-x    2 root    root      6 May 15 05:04 vi
