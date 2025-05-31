@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type f -name '*.gif' -print0 | xargs -0 -I{} sh -c $'name="${1##*/}"\nprintf "%s\n" "${name%.gif}"\n' _ {}
+#!/bin/bash 
+find . -type f \( -name '*.gif' \) -printf "%f\n" -print0 | xargs -0 -I{} sh -c $'name="${1##*/}"\nprintf "%s\n" "${name%.gif}"\n' _ {}
