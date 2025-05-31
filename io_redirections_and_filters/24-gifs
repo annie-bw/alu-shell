@@ -1,2 +1,2 @@
-#!/bin/bash 
-find . -type f -regextype posix-extended -regex '.*\.(gif)$' -printf "%f\n" |LC_ALL=C  sort -f
+#!/bin/bash
+find . -type f -iname '*.gif' -printf '%f\n' | rev | cut -d. -f2- | rev | LC_ALL=C sort -f
