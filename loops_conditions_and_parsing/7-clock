@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# This is file 6
+hour=0
+
+while [ $hour -le 12 ]
+do
+    echo "Hour: $hour"
+
+    minute=1
+    while [ $minute -le 59 ]
+    do
+        echo "$minute"
+        ((minute++))
+    done
+
+    ((hour++))
+done
+
+
